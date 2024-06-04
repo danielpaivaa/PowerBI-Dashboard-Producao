@@ -6,6 +6,11 @@ Estou criando um dashboard de produção a partir de um conjunto de dados fictí
 
 ## Passo a Passo para Criar o Dashboard
 
+### Criando um plano de fundo
+  - Plano de fundo criado utilizando Microsoft Power Point
+
+![Plano de fundo](arquivos/Plano%20de%20Fundo.png)
+
 ### Importação e Transformação dos Dados
 
 - **Passos de Transformação:**
